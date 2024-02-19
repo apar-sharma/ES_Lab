@@ -2,10 +2,10 @@ LIBRARY ieee;
 USE ieee.std_logic_1164.ALL;
 
  
-ENTITY HA_tf IS
-END HA_tf;
+ENTITY HA_tb IS
+END HA_tb;
  
-ARCHITECTURE behavior OF HA_tf IS 
+ARCHITECTURE behavior OF HA_tb IS 
  
     -- Component Declaration for the Unit Under Test (UUT)
  

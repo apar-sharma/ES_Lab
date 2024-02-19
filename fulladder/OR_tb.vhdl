@@ -3,10 +3,10 @@
 LIBRARY ieee;
 USE ieee.std_logic_1164.ALL;
  
-ENTITY OR_tf IS
-END OR_tf;
+ENTITY OR_tb IS
+END OR_tb;
  
-ARCHITECTURE behavior OF OR_tf IS 
+ARCHITECTURE behavior OF OR_tb IS 
  
     -- Component Declaration for the Unit Under Test (UUT)
  
