@@ -14,6 +14,14 @@ architecture Behavioral of OR_GATE is
 
 begin
 
-Y<=A or B;
+process (A, B)
+
+begin
+	if(A = '0' and B = '0') then
+		Y <= '0';
+	else
+		Y <= '1';
+	end if;
+end process;
 
 end Behavioral;
