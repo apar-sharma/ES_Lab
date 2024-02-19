@@ -1,4 +1,4 @@
-# VHDL_Assignment
+# VHDL_Assignment📑
 
 This repository contains VHDL code, test cases and all other relevant files  the solutions of past paper questions of embedded system. The code is compiled using GHDL and the waveforms is visualized using GTKWave.
 
