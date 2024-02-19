@@ -10,9 +10,9 @@ Ensure you have the following software installed on your system:
 
 * GTKWave 
 
-## Installing GHDL
+## Installing GHDL🔃
 Follow the instructions on the [GHDL github repository](https://github.com/ghdl/ghdl/releases) to install GHDL on your system.
 
-## Installing GTKWave
+## Installing GTKWave🔃
 Follow the instructions on the [GTKWave github repository](https://github.com/gtkwave/gtkwave) to install GTKWave on your system.
 
